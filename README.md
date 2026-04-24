@@ -1,11 +1,9 @@
+# Juego Pasalabras Web App
 
-  # Juego Pasalabras Web App
+Version 3 de juego Pasapalabras para jugar en vivo con la familia y amigos
 
-  This is a code bundle for Juego Pasalabras Web App. The original project is available at https://www.figma.com/design/aLSeAyx5gyVNFQBrzgt8FA/Juego-Pasalabras-Web-App.
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
